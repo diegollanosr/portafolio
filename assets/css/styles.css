@@ -1,12 +1,12 @@
 *{
     scroll-margin-top: 100px;
     scroll-behavior: smooth;
+    box-sizing: border-box;
 }
 body{
     background: #e5e5e5;
     font-family: 'Raleway', sans-serif;
     height: 100vh;
-    box-sizing: border-box;
 }
 button{
     cursor: pointer;
